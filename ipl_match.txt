@@ -1,0 +1,5 @@
+team1,team2,matches,team1_wins,team2_wins
+MI,RCB,30,17,13
+CSK,MI,35,18,17
+RCB,KKR,25,12,13
+RR,SRH,20,10,10
